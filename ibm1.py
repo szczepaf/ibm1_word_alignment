@@ -9,7 +9,7 @@
 
 
 # More details: https://ufal.mff.cuni.cz/courses/npfl124#assignment03
-# Git repository: #ADD GIT LINK
+# Git repository: https://github.com/szczepaf/ibm1_word_alignment
 
 import simplemma
 import sys
